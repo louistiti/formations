@@ -43,13 +43,6 @@ On ne peut pas présenter toutes les règles mais le but est de donner une base 
     - margin / padding, comment on peut mettre une valeur négative ? dafuk ?
     - width, height
     - min-width, max-height...
-- Unités
-    - %
-    - px
-    - em
-    - rem
-    - ch
-    - vw / vh - vmin / vmax
 - Apparence
     - background
     - border
@@ -71,6 +64,7 @@ On ne peut pas présenter toutes les règles mais le but est de donner une base 
 
 ## "Bonnes Pratiques" <= renommer ça parceque ça fait genre j'impose la manière de faire les choses :)
 
+- Les unités : %, px, em, rem, ch, vw / vh - vmin / vmax
 - Mobile First
 - SMACSS / BEM
 - Les preprocesseurs: sass, less, stylus
