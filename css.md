@@ -43,6 +43,13 @@ On ne peut pas présenter toutes les règles mais le but est de donner une base 
     - margin / padding, comment on peut mettre une valeur négative ? dafuk ?
     - width, height
     - min-width, max-height...
+- Unités
+    - %
+    - px
+    - em
+    - rem
+    - ch
+    - vw / vh - vmin / vmax
 - Apparence
     - background
     - border
